@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrQuantumPC
-- 👀 I’m interested in <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=programming;ai;linux" alt="Typing SVG" /></a>
+- 👀 I’m interested in https://readme-typing-svg.demolab.com/demo/?height=30&lines=programming;ai;linux
 - 🌱 I’m currently learning programming
 
 
